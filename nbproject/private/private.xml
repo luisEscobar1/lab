@@ -3,10 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/jasaro/Documents/NetBeansProjects/vistasTienda/src/Vista/Reportes.fxml</file>
-            <file>file:/C:/Users/jasaro/Documents/NetBeansProjects/vistasTienda/src/Controlador/InicioController.java</file>
-            <file>file:/C:/Users/jasaro/Documents/NetBeansProjects/vistasTienda/src/modelo/VistasTienda.java</file>
+            <file>file:/C:/Users/jasaro/Documents/NetBeansProjects/vistasTienda/src/Controlador/VentasController.java</file>
+            <file>file:/C:/Users/jasaro/Documents/NetBeansProjects/vistasTienda/src/Controlador/FacturaController.java</file>
+            <file>file:/C:/Users/jasaro/Documents/NetBeansProjects/vistasTienda/src/Controlador/EmpleaosController.java</file>
+            <file>file:/C:/Users/jasaro/Documents/NetBeansProjects/vistasTienda/src/Controlador/ProductosController.java</file>
+            <file>file:/C:/Users/jasaro/Documents/NetBeansProjects/vistasTienda/src/dtosbasicos/Producto.java</file>
             <file>file:/C:/Users/jasaro/Documents/NetBeansProjects/vistasTienda/src/Controlador/reportesController.java</file>
+            <file>file:/C:/Users/jasaro/Documents/NetBeansProjects/vistasTienda/src/Controlador/CajasController.java</file>
         </group>
     </open-files>
 </project-private>
